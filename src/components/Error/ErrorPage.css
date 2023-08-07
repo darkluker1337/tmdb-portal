@@ -1,0 +1,11 @@
+.Error {
+  text-align: center;
+  padding-top: 15%;
+  color: red;
+}
+.showError {
+  text-align: center;
+  padding-top: 15%;
+  padding-bottom: 15%;
+  color: red;
+}
